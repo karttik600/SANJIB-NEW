@@ -1,0 +1,57 @@
+body{
+    background-image: url(11.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.SM
+{
+ color: rgb(255, 255, 255);
+ text-align: center;
+ position: absolute;
+ top: 20px;
+ bottom: 0px;
+ left: 300px;
+ right: 290px;
+ font-weight: bold;
+ padding: 0px;
+}
+.SM h1 img
+{
+  top: 25px;  
+  position: relative;
+  left: 0px;
+  right: 0px;
+  height: 65px;
+  width: 65px;
+  border-radius: 30px;
+  bottom: 8px;
+}
+
+.form1
+{
+position: relative;    
+background-color: crimson;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+text-align: center;
+font-size: 35px;
+margin: 0 auto;
+width: fit-content;
+height: fit-content;
+padding: 60px 40px;
+margin-top: 150px;
+border-radius: 3%;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+ .form1 input{
+    padding: 6px 50px;
+    border-color: crimson;
+    border-radius: 20px;
+ }
+ .form1 .btn
+ {
+    font-weight: bold;
+ }
